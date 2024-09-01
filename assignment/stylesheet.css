@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(52, 61, 163);
+    color: white;
+    text-align: center;
+ }
+
+body{
+    background-image: url(record.png);
+    background-repeat: repeat;
+    background-size: auto;
+    background-position: auto;
+    margin: 0;
+    padding: 1em;
+}
+
+img{
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+main{
+    background-color: gray;
+}
